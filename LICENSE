@@ -9,8 +9,17 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+1. The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+2. **Attribution Requirement**:  
+   Any Fortnite island or UEFN project that incorporates this Software must display
+   visible attribution to the original author. This credit must appear in a form
+   accessible to players, such as a HUD message, sign, or intro widget, with the following text:
+
+       "Code by JakubSterczewski – github.com/JakubSterczewski"
+
+   This notice must remain unmodified and legible.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
